@@ -1,0 +1,156 @@
+.colored-section {
+  background-color: #069A8E;
+  color: #fff;
+}
+
+.top-sec {
+  padding: 0;
+}
+
+.navbar {
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  background-color: #2C3333;
+}
+
+.banner {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.laptop {
+  padding-top: 2rem;
+  padding-left: 6rem;
+}
+
+.info {
+  padding-left: 6rem;
+}
+
+.big-heading {
+  padding-bottom: 1rem;
+}
+
+.demo>ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.list-checked>li {
+  position: relative;
+  padding-left: 2.25rem;
+}
+
+.list-checked>li::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "🗸";
+  color: #FFD124;
+}
+
+.top-button {
+  margin: 6% 2% 4% 0;
+}
+
+.top-button>a {
+  text-decoration: none;
+  color: white;
+}
+
+.heading {
+  margin-top: 3rem;
+  text-align: center;
+  color: #069A8E;
+}
+
+.sub-heading {
+  color: #FFD124;
+  text-decoration: underline;
+  font-weight: 900;
+  font-size: 21px;
+  text-align: center;
+}
+
+.box {
+  width: 18rem;
+  height: 18.5rem;
+  text-align: center;
+  padding: 2% 2% 2% 2%;
+}
+
+.line1 {
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.line2 {
+  margin-top: 2rem;
+  margin-left: 4rem;
+  margin-bottom: 4rem;
+}
+
+.student-img {
+  width: 200px;
+  height: 300px;
+  border-radius: 5%;
+}
+
+.ruler {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50px;
+}
+
+.testimonial-head {
+  text-align: center;
+  padding-top: 1.5rem;
+}
+
+.testimonial {
+  padding: 2% 12%;
+}
+
+.company-heading {
+  text-align: center;
+  color: #FFD124;
+}
+
+.companyimg {
+  padding: 0.5rem 6rem 4rem 6rem;
+}
+
+.companyimg>img {
+  margin-right: 1.5rem;
+  background-color: #EEEEEE;
+}
+
+.price {
+  text-align: center;
+  margin: 2% 2% 2% 2%;
+}
+
+.strip {
+  padding: 0;
+  background-color: #FFD124;
+}
+
+.form-heading {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.email-box {
+  padding: 2rem 0 2rem 0;
+}
+
+.footer-heading {
+  color: #069A8E;
+  text-decoration: underline;
+}
+
+.base {
+  background-color: rgba(0, 0, 0, 0.2);
+}
