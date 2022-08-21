@@ -53,6 +53,11 @@
   margin: 6% 2% 4% 0;
 }
 
+.top-button>a {
+  text-decoration: none;
+  color: white;
+}
+
 .heading {
   margin-top: 3rem;
   text-align: center;
@@ -67,7 +72,7 @@
   text-align: center;
 }
 
-.box{
+.box {
   width: 18rem;
   height: 18.5rem;
   text-align: center;
@@ -112,32 +117,40 @@
   text-align: center;
   color: #FFD124;
 }
-.companyimg{
-  padding: 0.5rem 8rem 4rem 8rem;
+
+.companyimg {
+  padding: 0.5rem 6rem 4rem 6rem;
 }
-.companyimg>img{
+
+.companyimg>img {
   margin-right: 1.5rem;
-  background-color:  #EEEEEE;
+  background-color: #EEEEEE;
 }
-.price{
+
+.price {
   text-align: center;
   margin: 2% 2% 2% 2%;
 }
-.strip{
+
+.strip {
   padding: 0;
-  background-color: #F7FF93;
+  background-color: #FFD124;
 }
-.form-heading{
+
+.form-heading {
   margin-top: 1rem;
   text-align: center;
 }
-.email-box{
+
+.email-box {
   padding: 2rem 0 2rem 0;
 }
-.footer-heading{
+
+.footer-heading {
   color: #069A8E;
   text-decoration: underline;
 }
-.base{
+
+.base {
   background-color: rgba(0, 0, 0, 0.2);
 }
